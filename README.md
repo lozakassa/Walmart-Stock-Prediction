@@ -1,7 +1,7 @@
 # 📈 Walmart (WMT) Algorithmic Trading Signals & 2025 Price Forecast
 
 ## The Pitch: Why This Matters to Investors
-In the stock market, emotions are your worst enemy. This project attempts to strip away the noise and apply pure, data-driven logic to Walmart (WMT)—one of the most resilient blue-chip stocks on the market. 
+In the stock market, emotions are your worst enemy. This project attempts to strip away the noise and apply pure, data-driven logic to Walmart (WMT), one of the most resilient blue-chip stocks on the market. 
 
 By leveraging historical price action dating back to the year 2000, this analysis employs a **Mean Reversion Strategy** using Bollinger Bands to algorithmically identify optimal Buy and Sell pockets. Furthermore, it doesn't just look backward; it uses an ARIMA time-series model to forecast WMT's price trajectory through 2025. Whether you are a swing trader looking for technical entry points or a long-term investor mapping macroeconomic trends, this project translates raw daily market data into actionable signals.
 
